@@ -1,0 +1,11 @@
+D:\C# Programs\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe.config
+D:\C# Programs\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe
+D:\C# Programs\Book Club Points\Book Club Points\bin\Debug\Book Club Points.pdb
+D:\C# Programs\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.AssemblyReference.cache
+D:\C# Programs\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.bookClub_Form.resources
+D:\C# Programs\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Properties.Resources.resources
+D:\C# Programs\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.GenerateResource.cache
+D:\C# Programs\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.CoreCompileInputs.cache
+D:\C# Programs\Book Club Points\Book Club Points\obj\Debug\Book Club Points.exe
+D:\C# Programs\Book Club Points\Book Club Points\obj\Debug\Book Club Points.pdb
