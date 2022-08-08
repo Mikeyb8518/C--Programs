@@ -1,0 +1,11 @@
+D:\C# Programs\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe.config
+D:\C# Programs\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+D:\C# Programs\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+D:\C# Programs\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csproj.AssemblyReference.cache
+D:\C# Programs\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Mass and Weight\Mass and Weight\obj\Debug\Mass_and_Weight.Form1.resources
+D:\C# Programs\Mass and Weight\Mass and Weight\obj\Debug\Mass_and_Weight.Properties.Resources.resources
+D:\C# Programs\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csproj.GenerateResource.cache
+D:\C# Programs\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.csproj.CoreCompileInputs.cache
+D:\C# Programs\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.exe
+D:\C# Programs\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.pdb
