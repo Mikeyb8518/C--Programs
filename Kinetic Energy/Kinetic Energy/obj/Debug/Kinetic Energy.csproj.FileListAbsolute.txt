@@ -1,0 +1,11 @@
+D:\C# Programs\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.exe.config
+D:\C# Programs\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.exe
+D:\C# Programs\Kinetic Energy\Kinetic Energy\bin\Debug\Kinetic Energy.pdb
+D:\C# Programs\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.csproj.AssemblyReference.cache
+D:\C# Programs\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic_Energy.kinetic_Energy_Form.resources
+D:\C# Programs\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic_Energy.Properties.Resources.resources
+D:\C# Programs\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.csproj.GenerateResource.cache
+D:\C# Programs\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.csproj.CoreCompileInputs.cache
+D:\C# Programs\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.exe
+D:\C# Programs\Kinetic Energy\Kinetic Energy\obj\Debug\Kinetic Energy.pdb
