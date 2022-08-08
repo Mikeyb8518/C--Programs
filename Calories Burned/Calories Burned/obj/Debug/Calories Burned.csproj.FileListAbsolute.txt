@@ -1,0 +1,11 @@
+D:\C# Programs\Calories Burned\Calories Burned\bin\Debug\Calories Burned.exe.config
+D:\C# Programs\Calories Burned\Calories Burned\bin\Debug\Calories Burned.exe
+D:\C# Programs\Calories Burned\Calories Burned\bin\Debug\Calories Burned.pdb
+D:\C# Programs\Calories Burned\Calories Burned\obj\Debug\Calories Burned.csproj.AssemblyReference.cache
+D:\C# Programs\Calories Burned\Calories Burned\obj\Debug\Calories Burned.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Calories Burned\Calories Burned\obj\Debug\Calories_Burned.caloriesBurned_Form.resources
+D:\C# Programs\Calories Burned\Calories Burned\obj\Debug\Calories_Burned.Properties.Resources.resources
+D:\C# Programs\Calories Burned\Calories Burned\obj\Debug\Calories Burned.csproj.GenerateResource.cache
+D:\C# Programs\Calories Burned\Calories Burned\obj\Debug\Calories Burned.csproj.CoreCompileInputs.cache
+D:\C# Programs\Calories Burned\Calories Burned\obj\Debug\Calories Burned.exe
+D:\C# Programs\Calories Burned\Calories Burned\obj\Debug\Calories Burned.pdb
