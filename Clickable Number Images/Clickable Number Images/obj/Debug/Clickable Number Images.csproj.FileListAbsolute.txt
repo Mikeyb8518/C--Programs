@@ -1,0 +1,10 @@
+D:\C# Programs\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.exe.config
+D:\C# Programs\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.exe
+D:\C# Programs\Clickable Number Images\Clickable Number Images\bin\Debug\Clickable Number Images.pdb
+D:\C# Programs\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csproj.AssemblyReference.cache
+D:\C# Programs\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable_Number_Images.Form1.resources
+D:\C# Programs\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable_Number_Images.Properties.Resources.resources
+D:\C# Programs\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csproj.GenerateResource.cache
+D:\C# Programs\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.csproj.CoreCompileInputs.cache
+D:\C# Programs\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.exe
+D:\C# Programs\Clickable Number Images\Clickable Number Images\obj\Debug\Clickable Number Images.pdb
