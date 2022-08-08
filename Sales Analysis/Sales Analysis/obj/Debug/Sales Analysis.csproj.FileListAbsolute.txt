@@ -1,0 +1,11 @@
+D:\C# Programs\Sales Analysis\Sales Analysis\bin\Debug\Sales Analysis.exe.config
+D:\C# Programs\Sales Analysis\Sales Analysis\bin\Debug\Sales Analysis.exe
+D:\C# Programs\Sales Analysis\Sales Analysis\bin\Debug\Sales Analysis.pdb
+D:\C# Programs\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.AssemblyReference.cache
+D:\C# Programs\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Sales Analysis\Sales Analysis\obj\Debug\Sales_Analysis.sales_Analysis_Form.resources
+D:\C# Programs\Sales Analysis\Sales Analysis\obj\Debug\Sales_Analysis.Properties.Resources.resources
+D:\C# Programs\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.GenerateResource.cache
+D:\C# Programs\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.CoreCompileInputs.cache
+D:\C# Programs\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.exe
+D:\C# Programs\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.pdb
