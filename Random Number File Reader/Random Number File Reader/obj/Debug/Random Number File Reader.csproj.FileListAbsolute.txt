@@ -1,0 +1,11 @@
+D:\C# Programs\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.exe.config
+D:\C# Programs\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.exe
+D:\C# Programs\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.pdb
+D:\C# Programs\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.AssemblyReference.cache
+D:\C# Programs\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Random Number File Reader\Random Number File Reader\obj\Debug\Random_Number_File_Reader.random_Number_Form.resources
+D:\C# Programs\Random Number File Reader\Random Number File Reader\obj\Debug\Random_Number_File_Reader.Properties.Resources.resources
+D:\C# Programs\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.GenerateResource.cache
+D:\C# Programs\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.CoreCompileInputs.cache
+D:\C# Programs\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.exe
+D:\C# Programs\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.pdb
