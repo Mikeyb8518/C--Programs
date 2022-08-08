@@ -1,0 +1,11 @@
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\bin\Debug\Tic-Tac-Toe Simulator.exe.config
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\bin\Debug\Tic-Tac-Toe Simulator.exe
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\bin\Debug\Tic-Tac-Toe Simulator.pdb
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\obj\Debug\Tic-Tac-Toe Simulator.csproj.AssemblyReference.cache
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\obj\Debug\Tic-Tac-Toe Simulator.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\obj\Debug\Tic_Tac_Toe_Simulator.game_Form.resources
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\obj\Debug\Tic_Tac_Toe_Simulator.Properties.Resources.resources
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\obj\Debug\Tic-Tac-Toe Simulator.csproj.GenerateResource.cache
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\obj\Debug\Tic-Tac-Toe Simulator.csproj.CoreCompileInputs.cache
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\obj\Debug\Tic-Tac-Toe Simulator.exe
+D:\C# Programs\Tic-Tac-Toe Simulator\Tic-Tac-Toe Simulator\obj\Debug\Tic-Tac-Toe Simulator.pdb
