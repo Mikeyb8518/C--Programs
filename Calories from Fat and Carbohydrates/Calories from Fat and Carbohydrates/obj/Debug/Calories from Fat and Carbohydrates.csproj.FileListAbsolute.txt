@@ -1,0 +1,11 @@
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\bin\Debug\Calories from Fat and Carbohydrates.exe.config
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\bin\Debug\Calories from Fat and Carbohydrates.exe
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\bin\Debug\Calories from Fat and Carbohydrates.pdb
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\obj\Debug\Calories from Fat and Carbohydrates.csproj.AssemblyReference.cache
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\obj\Debug\Calories from Fat and Carbohydrates.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\obj\Debug\Calories_from_Fat_and_Carbohydrates.Calories_Fat_Carbs_Form.resources
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\obj\Debug\Calories_from_Fat_and_Carbohydrates.Properties.Resources.resources
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\obj\Debug\Calories from Fat and Carbohydrates.csproj.GenerateResource.cache
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\obj\Debug\Calories from Fat and Carbohydrates.csproj.CoreCompileInputs.cache
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\obj\Debug\Calories from Fat and Carbohydrates.exe
+D:\C# Programs\Calories from Fat and Carbohydrates\Calories from Fat and Carbohydrates\obj\Debug\Calories from Fat and Carbohydrates.pdb
