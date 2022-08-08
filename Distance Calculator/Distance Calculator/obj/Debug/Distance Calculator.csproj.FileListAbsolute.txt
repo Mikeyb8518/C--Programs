@@ -1,0 +1,11 @@
+D:\C# Programs\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+D:\C# Programs\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+D:\C# Programs\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+D:\C# Programs\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.AssemblyReference.cache
+D:\C# Programs\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.distanceCalculator_Form.resources
+D:\C# Programs\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Properties.Resources.resources
+D:\C# Programs\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.GenerateResource.cache
+D:\C# Programs\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.CoreCompileInputs.cache
+D:\C# Programs\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+D:\C# Programs\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb
