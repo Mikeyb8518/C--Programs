@@ -1,0 +1,11 @@
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.AssemblyReference.cache
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Properties.Resources.resources
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.GenerateResource.cache
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.CoreCompileInputs.cache
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+D:\C# Programs\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
