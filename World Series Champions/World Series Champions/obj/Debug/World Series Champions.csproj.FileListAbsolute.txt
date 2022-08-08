@@ -1,0 +1,11 @@
+D:\C# Programs\World Series Champions\World Series Champions\bin\Debug\World Series Champions.exe.config
+D:\C# Programs\World Series Champions\World Series Champions\bin\Debug\World Series Champions.exe
+D:\C# Programs\World Series Champions\World Series Champions\bin\Debug\World Series Champions.pdb
+D:\C# Programs\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csproj.AssemblyReference.cache
+D:\C# Programs\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\World Series Champions\World Series Champions\obj\Debug\World_Series_Champions.champions_Form.resources
+D:\C# Programs\World Series Champions\World Series Champions\obj\Debug\World_Series_Champions.Properties.Resources.resources
+D:\C# Programs\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csproj.GenerateResource.cache
+D:\C# Programs\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csproj.CoreCompileInputs.cache
+D:\C# Programs\World Series Champions\World Series Champions\obj\Debug\World Series Champions.exe
+D:\C# Programs\World Series Champions\World Series Champions\obj\Debug\World Series Champions.pdb
