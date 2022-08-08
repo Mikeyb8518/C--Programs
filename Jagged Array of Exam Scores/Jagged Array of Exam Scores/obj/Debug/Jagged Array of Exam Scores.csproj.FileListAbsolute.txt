@@ -1,0 +1,11 @@
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\bin\Debug\Jagged Array of Exam Scores.exe.config
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\bin\Debug\Jagged Array of Exam Scores.exe
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\bin\Debug\Jagged Array of Exam Scores.pdb
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\obj\Debug\Jagged Array of Exam Scores.csproj.AssemblyReference.cache
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\obj\Debug\Jagged Array of Exam Scores.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\obj\Debug\Jagged_Array_of_Exam_Scores.jagged_Exam_Scores_Form.resources
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\obj\Debug\Jagged_Array_of_Exam_Scores.Properties.Resources.resources
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\obj\Debug\Jagged Array of Exam Scores.csproj.GenerateResource.cache
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\obj\Debug\Jagged Array of Exam Scores.csproj.CoreCompileInputs.cache
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\obj\Debug\Jagged Array of Exam Scores.exe
+D:\C# Programs\Jagged Array of Exam Scores\Jagged Array of Exam Scores\obj\Debug\Jagged Array of Exam Scores.pdb
