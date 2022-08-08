@@ -1,0 +1,10 @@
+D:\C# Programs\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.exe.config
+D:\C# Programs\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.exe
+D:\C# Programs\Orion Constellation\Orion Constellation\bin\Debug\Orion Constellation.pdb
+D:\C# Programs\Orion Constellation\Orion Constellation\obj\Debug\Orion_Constellation.Form1.resources
+D:\C# Programs\Orion Constellation\Orion Constellation\obj\Debug\Orion_Constellation.Properties.Resources.resources
+D:\C# Programs\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.csproj.GenerateResource.cache
+D:\C# Programs\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.csproj.CoreCompileInputs.cache
+D:\C# Programs\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.exe
+D:\C# Programs\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.pdb
+D:\C# Programs\Orion Constellation\Orion Constellation\obj\Debug\Orion Constellation.csproj.AssemblyReference.cache
