@@ -1,0 +1,11 @@
+D:\C# Programs\Property Tax\Property Tax\bin\Debug\Property Tax.exe.config
+D:\C# Programs\Property Tax\Property Tax\bin\Debug\Property Tax.exe
+D:\C# Programs\Property Tax\Property Tax\bin\Debug\Property Tax.pdb
+D:\C# Programs\Property Tax\Property Tax\obj\Debug\Property Tax.csproj.AssemblyReference.cache
+D:\C# Programs\Property Tax\Property Tax\obj\Debug\Property Tax.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Property Tax\Property Tax\obj\Debug\Property_Tax.property_tax_form.resources
+D:\C# Programs\Property Tax\Property Tax\obj\Debug\Property_Tax.Properties.Resources.resources
+D:\C# Programs\Property Tax\Property Tax\obj\Debug\Property Tax.csproj.GenerateResource.cache
+D:\C# Programs\Property Tax\Property Tax\obj\Debug\Property Tax.csproj.CoreCompileInputs.cache
+D:\C# Programs\Property Tax\Property Tax\obj\Debug\Property Tax.exe
+D:\C# Programs\Property Tax\Property Tax\obj\Debug\Property Tax.pdb
