@@ -1,0 +1,11 @@
+D:\C# Programs\Name Formatting\Name Formatting\obj\Debug\Name Formatting.csproj.AssemblyReference.cache
+D:\C# Programs\Name Formatting\Name Formatting\obj\Debug\Name Formatting.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Name Formatting\Name Formatting\obj\Debug\Name_Formatting.name_Form.resources
+D:\C# Programs\Name Formatting\Name Formatting\obj\Debug\Name_Formatting.Properties.Resources.resources
+D:\C# Programs\Name Formatting\Name Formatting\obj\Debug\Name Formatting.csproj.GenerateResource.cache
+D:\C# Programs\Name Formatting\Name Formatting\obj\Debug\Name Formatting.csproj.CoreCompileInputs.cache
+D:\C# Programs\Name Formatting\Name Formatting\bin\Debug\Name Formatting.exe.config
+D:\C# Programs\Name Formatting\Name Formatting\bin\Debug\Name Formatting.exe
+D:\C# Programs\Name Formatting\Name Formatting\bin\Debug\Name Formatting.pdb
+D:\C# Programs\Name Formatting\Name Formatting\obj\Debug\Name Formatting.exe
+D:\C# Programs\Name Formatting\Name Formatting\obj\Debug\Name Formatting.pdb
