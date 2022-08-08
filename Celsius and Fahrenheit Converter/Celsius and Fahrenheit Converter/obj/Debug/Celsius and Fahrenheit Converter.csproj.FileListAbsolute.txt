@@ -1,0 +1,11 @@
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\bin\Debug\Celsius and Fahrenheit Converter.exe.config
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\bin\Debug\Celsius and Fahrenheit Converter.exe
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\bin\Debug\Celsius and Fahrenheit Converter.pdb
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\obj\Debug\Celsius and Fahrenheit Converter.csproj.AssemblyReference.cache
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\obj\Debug\Celsius and Fahrenheit Converter.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\obj\Debug\Celsius_and_Fahrenheit_Converter.celsius_fahrenheit_converter_Form.resources
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\obj\Debug\Celsius_and_Fahrenheit_Converter.Properties.Resources.resources
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\obj\Debug\Celsius and Fahrenheit Converter.csproj.GenerateResource.cache
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\obj\Debug\Celsius and Fahrenheit Converter.csproj.CoreCompileInputs.cache
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\obj\Debug\Celsius and Fahrenheit Converter.exe
+D:\C# Programs\Celsius and Fahrenheit Converter\Celsius and Fahrenheit Converter\obj\Debug\Celsius and Fahrenheit Converter.pdb
