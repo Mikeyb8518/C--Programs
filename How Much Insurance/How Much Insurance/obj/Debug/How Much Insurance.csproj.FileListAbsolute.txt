@@ -1,0 +1,11 @@
+D:\C# Programs\How Much Insurance\How Much Insurance\bin\Debug\How Much Insurance.exe.config
+D:\C# Programs\How Much Insurance\How Much Insurance\bin\Debug\How Much Insurance.exe
+D:\C# Programs\How Much Insurance\How Much Insurance\bin\Debug\How Much Insurance.pdb
+D:\C# Programs\How Much Insurance\How Much Insurance\obj\Debug\How Much Insurance.csproj.AssemblyReference.cache
+D:\C# Programs\How Much Insurance\How Much Insurance\obj\Debug\How Much Insurance.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\How Much Insurance\How Much Insurance\obj\Debug\How_Much_Insurance.how_much_insurance_Form.resources
+D:\C# Programs\How Much Insurance\How Much Insurance\obj\Debug\How_Much_Insurance.Properties.Resources.resources
+D:\C# Programs\How Much Insurance\How Much Insurance\obj\Debug\How Much Insurance.csproj.GenerateResource.cache
+D:\C# Programs\How Much Insurance\How Much Insurance\obj\Debug\How Much Insurance.csproj.CoreCompileInputs.cache
+D:\C# Programs\How Much Insurance\How Much Insurance\obj\Debug\How Much Insurance.exe
+D:\C# Programs\How Much Insurance\How Much Insurance\obj\Debug\How Much Insurance.pdb
