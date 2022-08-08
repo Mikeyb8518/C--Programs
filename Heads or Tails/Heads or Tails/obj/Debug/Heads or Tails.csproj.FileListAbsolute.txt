@@ -1,0 +1,10 @@
+D:\C# Programs\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe.config
+D:\C# Programs\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe
+D:\C# Programs\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.pdb
+D:\C# Programs\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.AssemblyReference.cache
+D:\C# Programs\Heads or Tails\Heads or Tails\obj\Debug\Heads_or_Tails.Form1.resources
+D:\C# Programs\Heads or Tails\Heads or Tails\obj\Debug\Heads_or_Tails.Properties.Resources.resources
+D:\C# Programs\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.GenerateResource.cache
+D:\C# Programs\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.CoreCompileInputs.cache
+D:\C# Programs\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.exe
+D:\C# Programs\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.pdb
