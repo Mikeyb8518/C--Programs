@@ -1,0 +1,11 @@
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\bin\Debug\Slot Machine Simulator.exe.config
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\bin\Debug\Slot Machine Simulator.exe
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\bin\Debug\Slot Machine Simulator.pdb
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\obj\Debug\Slot Machine Simulator.csproj.AssemblyReference.cache
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\obj\Debug\Slot Machine Simulator.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\obj\Debug\Slot_Machine_Simulator.slotMachine_Form.resources
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\obj\Debug\Slot_Machine_Simulator.Properties.Resources.resources
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\obj\Debug\Slot Machine Simulator.csproj.GenerateResource.cache
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\obj\Debug\Slot Machine Simulator.csproj.CoreCompileInputs.cache
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\obj\Debug\Slot Machine Simulator.exe
+D:\C# Programs\Slot Machine Simulator\Slot Machine Simulator\obj\Debug\Slot Machine Simulator.pdb
