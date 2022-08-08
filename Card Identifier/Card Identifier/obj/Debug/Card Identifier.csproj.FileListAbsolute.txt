@@ -1,0 +1,11 @@
+D:\C# Programs\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+D:\C# Programs\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+D:\C# Programs\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+D:\C# Programs\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.AssemblyReference.cache
+D:\C# Programs\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Form1.resources
+D:\C# Programs\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Properties.Resources.resources
+D:\C# Programs\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.GenerateResource.cache
+D:\C# Programs\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.CoreCompileInputs.cache
+D:\C# Programs\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+D:\C# Programs\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb
+D:\C# Programs\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.SuggestedBindingRedirects.cache
