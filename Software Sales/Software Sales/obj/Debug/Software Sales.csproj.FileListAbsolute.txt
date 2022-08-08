@@ -1,0 +1,11 @@
+D:\C# Programs\Software Sales\Software Sales\bin\Debug\Software Sales.exe.config
+D:\C# Programs\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+D:\C# Programs\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+D:\C# Programs\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.AssemblyReference.cache
+D:\C# Programs\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Software Sales\Software Sales\obj\Debug\Software_Sales.softwareSales_Form.resources
+D:\C# Programs\Software Sales\Software Sales\obj\Debug\Software_Sales.Properties.Resources.resources
+D:\C# Programs\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.GenerateResource.cache
+D:\C# Programs\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.CoreCompileInputs.cache
+D:\C# Programs\Software Sales\Software Sales\obj\Debug\Software Sales.exe
+D:\C# Programs\Software Sales\Software Sales\obj\Debug\Software Sales.pdb
