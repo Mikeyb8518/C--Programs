@@ -1,0 +1,11 @@
+D:\C# Programs\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe.config
+D:\C# Programs\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe
+D:\C# Programs\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.pdb
+D:\C# Programs\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csproj.AssemblyReference.cache
+D:\C# Programs\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Body Mass Index\Body Mass Index\obj\Debug\Body_Mass_Index.bodyMassIndex_Form.resources
+D:\C# Programs\Body Mass Index\Body Mass Index\obj\Debug\Body_Mass_Index.Properties.Resources.resources
+D:\C# Programs\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csproj.GenerateResource.cache
+D:\C# Programs\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csproj.CoreCompileInputs.cache
+D:\C# Programs\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.exe
+D:\C# Programs\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.pdb
