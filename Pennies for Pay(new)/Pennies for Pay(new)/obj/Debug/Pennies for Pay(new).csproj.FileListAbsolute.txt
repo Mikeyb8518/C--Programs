@@ -1,0 +1,11 @@
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\bin\Debug\Pennies for Pay(new).exe.config
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\bin\Debug\Pennies for Pay(new).exe
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\bin\Debug\Pennies for Pay(new).pdb
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\obj\Debug\Pennies for Pay(new).csproj.AssemblyReference.cache
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\obj\Debug\Pennies for Pay(new).csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\obj\Debug\Pennies_for_Pay_new_.Properties.Resources.resources
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\obj\Debug\Pennies for Pay(new).csproj.GenerateResource.cache
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\obj\Debug\Pennies for Pay(new).csproj.CoreCompileInputs.cache
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\obj\Debug\Pennies for Pay(new).exe
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\obj\Debug\Pennies for Pay(new).pdb
+D:\C# Programs\Pennies for Pay(new)\Pennies for Pay(new)\obj\Debug\Pennies_for_Pay_new_.pennies_Form.resources
