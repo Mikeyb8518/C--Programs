@@ -1,0 +1,11 @@
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.exe.config
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.exe
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\bin\Debug\Celsius to Fahrenheit Table.pdb
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.csproj.AssemblyReference.cache
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius_to_Fahrenheit_Table.celsiusTofahrenheit_Form.resources
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius_to_Fahrenheit_Table.Properties.Resources.resources
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.csproj.GenerateResource.cache
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.csproj.CoreCompileInputs.cache
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.exe
+D:\C# Programs\Celsius to Fahrenheit Table\Celsius to Fahrenheit Table\obj\Debug\Celsius to Fahrenheit Table.pdb
