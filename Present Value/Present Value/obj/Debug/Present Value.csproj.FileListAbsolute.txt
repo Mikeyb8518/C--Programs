@@ -1,0 +1,11 @@
+D:\C# Programs\Present Value\Present Value\bin\Debug\Present Value.exe.config
+D:\C# Programs\Present Value\Present Value\bin\Debug\Present Value.exe
+D:\C# Programs\Present Value\Present Value\bin\Debug\Present Value.pdb
+D:\C# Programs\Present Value\Present Value\obj\Debug\Present Value.csproj.AssemblyReference.cache
+D:\C# Programs\Present Value\Present Value\obj\Debug\Present Value.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Present Value\Present Value\obj\Debug\Present_Value.present_Value_Form.resources
+D:\C# Programs\Present Value\Present Value\obj\Debug\Present_Value.Properties.Resources.resources
+D:\C# Programs\Present Value\Present Value\obj\Debug\Present Value.csproj.GenerateResource.cache
+D:\C# Programs\Present Value\Present Value\obj\Debug\Present Value.csproj.CoreCompileInputs.cache
+D:\C# Programs\Present Value\Present Value\obj\Debug\Present Value.exe
+D:\C# Programs\Present Value\Present Value\obj\Debug\Present Value.pdb
