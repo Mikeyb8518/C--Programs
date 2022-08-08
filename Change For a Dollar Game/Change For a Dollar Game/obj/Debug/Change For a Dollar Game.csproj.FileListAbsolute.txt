@@ -1,0 +1,11 @@
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\bin\Debug\Change For a Dollar Game.exe.config
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\bin\Debug\Change For a Dollar Game.exe
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\bin\Debug\Change For a Dollar Game.pdb
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\obj\Debug\Change For a Dollar Game.csproj.AssemblyReference.cache
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\obj\Debug\Change For a Dollar Game.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\obj\Debug\Change_For_a_Dollar_Game.dollarGame_Form.resources
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\obj\Debug\Change_For_a_Dollar_Game.Properties.Resources.resources
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\obj\Debug\Change For a Dollar Game.csproj.GenerateResource.cache
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\obj\Debug\Change For a Dollar Game.csproj.CoreCompileInputs.cache
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\obj\Debug\Change For a Dollar Game.exe
+D:\C# Programs\Change For a Dollar Game\Change For a Dollar Game\obj\Debug\Change For a Dollar Game.pdb
