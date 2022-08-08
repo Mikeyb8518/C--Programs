@@ -1,0 +1,11 @@
+D:\C# Programs\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe.config
+D:\C# Programs\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.exe
+D:\C# Programs\Random Number File Writer\Random Number File Writer\bin\Debug\Random Number File Writer.pdb
+D:\C# Programs\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.AssemblyReference.cache
+D:\C# Programs\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.randomNumber_Form.resources
+D:\C# Programs\Random Number File Writer\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Properties.Resources.resources
+D:\C# Programs\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.GenerateResource.cache
+D:\C# Programs\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.CoreCompileInputs.cache
+D:\C# Programs\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.exe
+D:\C# Programs\Random Number File Writer\Random Number File Writer\obj\Debug\Random Number File Writer.pdb
