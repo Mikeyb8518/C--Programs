@@ -1,0 +1,11 @@
+D:\C# Programs\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe.config
+D:\C# Programs\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe
+D:\C# Programs\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.pdb
+D:\C# Programs\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.AssemblyReference.cache
+D:\C# Programs\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.hospitalCharges_Form.resources
+D:\C# Programs\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Properties.Resources.resources
+D:\C# Programs\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.GenerateResource.cache
+D:\C# Programs\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.CoreCompileInputs.cache
+D:\C# Programs\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.exe
+D:\C# Programs\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.pdb
