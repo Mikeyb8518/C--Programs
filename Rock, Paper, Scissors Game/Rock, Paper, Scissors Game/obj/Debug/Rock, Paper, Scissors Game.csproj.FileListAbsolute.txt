@@ -1,0 +1,11 @@
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\Rock, Paper, Scissors Game.exe.config
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\Rock, Paper, Scissors Game.exe
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\Rock, Paper, Scissors Game.pdb
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\Rock, Paper, Scissors Game.csproj.AssemblyReference.cache
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\Rock, Paper, Scissors Game.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\Rock__Paper__Scissors_Game.rock_Paper_Scissor_Form.resources
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\Rock__Paper__Scissors_Game.Properties.Resources.resources
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\Rock, Paper, Scissors Game.csproj.GenerateResource.cache
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\Rock, Paper, Scissors Game.csproj.CoreCompileInputs.cache
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\Rock, Paper, Scissors Game.exe
+D:\C# Programs\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\Rock, Paper, Scissors Game.pdb
