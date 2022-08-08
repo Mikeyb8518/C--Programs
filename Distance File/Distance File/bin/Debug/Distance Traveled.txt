@@ -1,0 +1,3 @@
+After hour 1 the distance is 40
+After hour 2 the distance is 80
+After hour 3 the distance is 120
