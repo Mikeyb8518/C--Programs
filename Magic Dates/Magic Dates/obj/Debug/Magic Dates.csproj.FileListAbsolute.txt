@@ -1,0 +1,11 @@
+D:\C# Programs\Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe.config
+D:\C# Programs\Magic Dates\Magic Dates\bin\Debug\Magic Dates.exe
+D:\C# Programs\Magic Dates\Magic Dates\bin\Debug\Magic Dates.pdb
+D:\C# Programs\Magic Dates\Magic Dates\obj\Debug\Magic Dates.csproj.AssemblyReference.cache
+D:\C# Programs\Magic Dates\Magic Dates\obj\Debug\Magic Dates.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Magic Dates\Magic Dates\obj\Debug\Magic_Dates.Form1.resources
+D:\C# Programs\Magic Dates\Magic Dates\obj\Debug\Magic_Dates.Properties.Resources.resources
+D:\C# Programs\Magic Dates\Magic Dates\obj\Debug\Magic Dates.csproj.GenerateResource.cache
+D:\C# Programs\Magic Dates\Magic Dates\obj\Debug\Magic Dates.csproj.CoreCompileInputs.cache
+D:\C# Programs\Magic Dates\Magic Dates\obj\Debug\Magic Dates.exe
+D:\C# Programs\Magic Dates\Magic Dates\obj\Debug\Magic Dates.pdb
