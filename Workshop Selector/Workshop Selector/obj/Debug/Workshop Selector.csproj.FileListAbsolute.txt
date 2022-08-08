@@ -1,0 +1,11 @@
+D:\C# Programs\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+D:\C# Programs\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+D:\C# Programs\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+D:\C# Programs\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.AssemblyReference.cache
+D:\C# Programs\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.workshop_Form.resources
+D:\C# Programs\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Properties.Resources.resources
+D:\C# Programs\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.GenerateResource.cache
+D:\C# Programs\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.CoreCompileInputs.cache
+D:\C# Programs\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+D:\C# Programs\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb
