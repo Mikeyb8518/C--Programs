@@ -1,0 +1,11 @@
+D:\C# Programs\Ocean Levels\Ocean Levels\bin\Debug\Ocean Levels.exe.config
+D:\C# Programs\Ocean Levels\Ocean Levels\bin\Debug\Ocean Levels.exe
+D:\C# Programs\Ocean Levels\Ocean Levels\bin\Debug\Ocean Levels.pdb
+D:\C# Programs\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.csproj.AssemblyReference.cache
+D:\C# Programs\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Ocean Levels\Ocean Levels\obj\Debug\Ocean_Levels.oceanLevels_Form.resources
+D:\C# Programs\Ocean Levels\Ocean Levels\obj\Debug\Ocean_Levels.Properties.Resources.resources
+D:\C# Programs\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.csproj.GenerateResource.cache
+D:\C# Programs\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.csproj.CoreCompileInputs.cache
+D:\C# Programs\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.exe
+D:\C# Programs\Ocean Levels\Ocean Levels\obj\Debug\Ocean Levels.pdb
