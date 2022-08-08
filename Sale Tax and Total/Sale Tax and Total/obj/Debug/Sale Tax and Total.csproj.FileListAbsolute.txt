@@ -1,0 +1,11 @@
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\bin\Debug\Sale Tax and Total.exe.config
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\bin\Debug\Sale Tax and Total.exe
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\bin\Debug\Sale Tax and Total.pdb
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\obj\Debug\Sale Tax and Total.csproj.AssemblyReference.cache
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\obj\Debug\Sale Tax and Total.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\obj\Debug\Sale_Tax_and_Total.Form1.resources
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\obj\Debug\Sale_Tax_and_Total.Properties.Resources.resources
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\obj\Debug\Sale Tax and Total.csproj.GenerateResource.cache
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\obj\Debug\Sale Tax and Total.csproj.CoreCompileInputs.cache
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\obj\Debug\Sale Tax and Total.exe
+D:\C# Programs\Sale Tax and Total\Sale Tax and Total\obj\Debug\Sale Tax and Total.pdb
