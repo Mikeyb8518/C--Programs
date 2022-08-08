@@ -1,0 +1,11 @@
+D:\C# Programs\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe.config
+D:\C# Programs\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe
+D:\C# Programs\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.pdb
+D:\C# Programs\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.AssemblyReference.cache
+D:\C# Programs\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Dice Simulator\Dice Simulator\obj\Debug\Dice_Simulator.dice_Simulator_Form.resources
+D:\C# Programs\Dice Simulator\Dice Simulator\obj\Debug\Dice_Simulator.Properties.Resources.resources
+D:\C# Programs\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.GenerateResource.cache
+D:\C# Programs\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.CoreCompileInputs.cache
+D:\C# Programs\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.exe
+D:\C# Programs\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.pdb

@@ -1,0 +1,11 @@
+D:\C# Programs\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.exe.config
+D:\C# Programs\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.exe
+D:\C# Programs\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.pdb
+D:\C# Programs\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.AssemblyReference.cache
+D:\C# Programs\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.SuggestedBindingRedirects.cache
+D:\C# Programs\Cookie Calories\Cookie Calories\obj\Debug\Cookie_Calories.cookie_counter_Form.resources
+D:\C# Programs\Cookie Calories\Cookie Calories\obj\Debug\Cookie_Calories.Properties.Resources.resources
+D:\C# Programs\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.GenerateResource.cache
+D:\C# Programs\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.CoreCompileInputs.cache
+D:\C# Programs\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.exe
+D:\C# Programs\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.pdb
